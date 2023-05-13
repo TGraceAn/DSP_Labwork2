@@ -6,3 +6,9 @@ Student ID: BI12-008.
 Student Name: Nguyen Thien An.
 
 Major: ICT.
+
+Other references for my report
+
+https://docs.scipy.org/
+
+https://www.wikipedia.org
